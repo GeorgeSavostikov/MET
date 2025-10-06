@@ -5,6 +5,20 @@ Landing page for The Metropolitan Museum of Art. You can view the page at the li
 * CSS3
 * Sass(SCSS)
 * BEM methodology
+# How to set up a project locally
+1) Clone the repository and switch to it
+   ```
+   git clone https://github.com/your-username/project-name.git
+   cd project-name
+   ```
+2) Install dependencies
+   ```
+   npm install
+   ```
+3) Run the project locally
+   ```
+   npm start
+   ```
 # Features
 The layout is adaptive, responsive, and cross-browser compatible. It works correctly on all screen sizes (mobile, tablet, and desktop versions) and is implemented using the mobile-first approach.
 # Reflections
